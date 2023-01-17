@@ -1,0 +1,45 @@
+*__pycache__
+benchmark/log*
+benchmark/bench.log
+benchmark/fordebug.csv
+
+build
+cmake-build-debug/
+cmake-build-release/
+
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+third_party/dash/third_party/pmdk
+.idea
+.vscode

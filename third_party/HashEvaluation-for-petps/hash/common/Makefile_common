@@ -1,0 +1,6 @@
+CXX := g++
+CFLAGS := -std=c++17 -O3 -I../common -L../common  -lmyvmem  -lvmem 
+DFLAGS := -DCLWB $(PerfFLAG)
+PFLAGS := -DPMEM_LOC="\"/mnt/pmem\""
+CFLAGS += $(DFLAGS)
+CFLAGS += $(PFLAGS)

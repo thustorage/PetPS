@@ -1,0 +1,3 @@
+#pragma once
+
+#define MAYFLY_PATH "@MAYFLY_PATH@"
