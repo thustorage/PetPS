@@ -11,7 +11,7 @@ This project introduce PetPS (<u>P</u>ersistent <u>E</u>mbedding <u>T</u>able <u
 
 For more details, please refer to our paper.
 
-[VLDB'23] PetPS: Supporting Huge Embedding Models with Persistent Memory
+[[VLDB'23] PetPS: Supporting Huge Embedding Models with Persistent Memory](https://www.vldb.org/pvldb/vol16/p1013-xie.pdf)
 
 If you find this repository useful, we would appreciate citations to our paper.
 
