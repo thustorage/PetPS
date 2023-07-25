@@ -1,4 +1,4 @@
-# PetPS: Supporting Huge Embedding Models with Persistent Memory
+# PetPS: Supporting Huge Embedding Models with Tiered Memory
 
 
 Embedding models are effective for learning high-dimensional sparse data in the scenarios of ad/recommendation/searching. 
